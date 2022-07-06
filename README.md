@@ -199,7 +199,7 @@ Once everything is configured as you wish, run the following command to "compile
 python3 index.py
 ```
 
-From here, Silica will automatically generate a repo and put the output in the `docs` folder. If a package does not have a `silica_data` file, you will be asked some information to help automatically generate it.
+From here, Silica will automatically generate a repo and put the output in the `docs` folder. If a package does not have a `silica_data` folder, you will be asked some information to help automatically generate it.
 
 From here, a service such as [GitHub Pages](https://pages.github.com) can be used to host the repo for free.
 
